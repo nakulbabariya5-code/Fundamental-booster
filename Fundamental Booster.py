@@ -1,0 +1,13 @@
+print("Welcome to the Interative Personal Data collector!")
+Name = input("Please enter your name:")
+Age = int(input("please enter your age:"))
+Height = float(input("please enter your height:"))
+Favourite_number = int(input("please enter your Favourite_number :"))
+print("Thank you! Here is the information we collected:")
+print("Name:",Name, "type:",(type(Name)),"Memory Address:",id(Name))
+print("Age",Age,"type:",(type(Age)),"memory Address:",id(Age))
+print("Height:",Height,"type:",(type(Height)),"memory address",id(Height))
+print("Favourite Number:",Favourite_number,"type:",(type(Favourite_number)),"memory_address",id(Favourite_number))
+print("your birth year is approximately:",2026 - Age,"based on your age of ",Age)
+print("Thank you for using the personal Data collectors Good Bye")
+          
