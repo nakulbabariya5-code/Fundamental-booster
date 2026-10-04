@@ -8,7 +8,7 @@ It then prints out each value along with its Python type() and memory location u
 The script performs the following core actions:
 
 1. User Input Collection:
-   1. `Name`: Read as a string (`str`)
+   *. `Name`: Read as a string (`str`)
    2.`Age`: Converted to an integer (`int`)
    3.`Height`: Converted to a floating-point number (`float`)
    4.`Favourite Number`: Converted to an integer (`int`)
