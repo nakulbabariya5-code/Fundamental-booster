@@ -15,9 +15,9 @@ The script performs the following core actions:
 - Favourite Number: Converted to an integer (`int`)
 
 
-2. Data & Memory Analysis:
+###2. Data & Memory Analysis:
     Displays variable values alongside their data types and unique memory IDs.
 
-3. Dynamic Computation:
+###3. Dynamic Computation:
     Calculates estimated birth year using the current year standard: `2026 - Age`.
 
