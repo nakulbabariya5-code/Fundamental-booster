@@ -3,7 +3,7 @@ A Python script that collects basic personal information from the user via termi
 What it does
 
 It then prints out each value along with its Python type() and memory location using id(), and estimates the user's approximate birth year based on the current year and their age.
-# Code Overview
+ Code Overview
 
 The script performs the following core actions:
 
@@ -14,8 +14,8 @@ The script performs the following core actions:
    * `Favourite Number`: Converted to an integer (`int`)
 
 2. Data & Memory Analysis:
-   * Displays variable values alongside their data types and unique memory IDs.
+    Displays variable values alongside their data types and unique memory IDs.
 
 3. Dynamic Computation:
-   * Calculates estimated birth year using the current year standard: `2026 - Age`.
+    Calculates estimated birth year using the current year standard: `2026 - Age`.
 
