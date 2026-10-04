@@ -1,4 +1,4 @@
-# Fundamental Booster 
+# Fundamental Booster Project
 Interactive Personal Data Collector
 A Python script that collects basic personal information from the user via terminal input, then displays it back along with each variable's data type and memory address.
 What it does
