@@ -7,7 +7,7 @@ It then prints out each value along with its Python type() and memory location u
 
 The script performs the following core actions:
 
-##  User Input Collection
+###  1. User Input Collection
 
 - Name: Read as a string (`str`)
 - Age: Converted to an integer (`int`)
