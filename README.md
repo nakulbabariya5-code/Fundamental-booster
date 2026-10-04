@@ -9,7 +9,7 @@ The script performs the following core actions:
 
 1. User Input Collection:
    *. `Name`: Read as a string (`str`)
-   2.`Age`: Converted to an integer (`int`)
+   *.`Age`: Converted to an integer (`int`)
    3.`Height`: Converted to a floating-point number (`float`)
    4.`Favourite Number`: Converted to an integer (`int`)
 
