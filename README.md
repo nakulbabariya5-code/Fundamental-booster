@@ -7,11 +7,13 @@ It then prints out each value along with its Python type() and memory location u
 
 The script performs the following core actions:
 
-1. User Input Collection:
-    `Name`: Read as a string (`str`)
-   .`Age`: Converted to an integer (`int`)
-   `Height`: Converted to a floating-point number (`float`)
-   `Favourite Number`: Converted to an integer (`int`)
+##  User Input Collection
+
+- Name: Read as a string (`str`)
+- Age: Converted to an integer (`int`)
+- Height: Converted to a floating-point number (`float`)
+- Favourite Number: Converted to an integer (`int`)
+
 
 2. Data & Memory Analysis:
     Displays variable values alongside their data types and unique memory IDs.
